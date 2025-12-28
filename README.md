@@ -1,10 +1,7 @@
 # Clinic-Project
 A software project in Java using a graphical interface for a medical clinic that allows adding, editing, and deleting patient names.
 
-
-========================
 BUILD OUTPUT DESCRIPTION
-========================
 
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
